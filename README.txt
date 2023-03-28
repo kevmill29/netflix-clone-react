@@ -32,9 +32,9 @@ export default instance
 
 And also creating a seperate javascript file requests.js and creating the api request url query strings IE:
 
-// API Key 81700d9e246363c42106cc78501c81e4
+// API Key 81700d9e246363c42106cc78501c813e4
 
-const API_KEY =  "81700d9e246363c42106cc78501c81e4"
+const API_KEY =  "81700d9e246363c42106cc78501c831e4"
 
 const requests = {
      fetchTrender: `trending/all/week?api_key=${API_KEY}&language=en-US`,
